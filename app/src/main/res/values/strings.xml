@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cat Trainer Business Card</string>
+
+    <string name="business_name">Professional Cat Trainer</string>
+
+    <string name="phone_number">Call Now! 555-555-5555</string>
+
+    <string name="cost">$3000
+    Guaranteed 3 Tricks</string>
+
+    <string name="refunds">Absolutely No Refunds</string>
+
+</resources>
+
+
